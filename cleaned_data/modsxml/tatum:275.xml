@@ -52,7 +52,7 @@
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>
    </language>
-   <name>
+   <name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020081602">
       <namePart>Tatum, Robert G. (Robert George), 1891-1964</namePart>
       <role>
          <roleTerm authority="marcrelator"
